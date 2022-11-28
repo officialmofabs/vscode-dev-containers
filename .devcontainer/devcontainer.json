@@ -45,6 +45,10 @@
 	"features": {
 		"docker-in-docker": "latest",
 		"github-cli": "latest"
+		"ghcr.io/devcontainers/features/node:1"
+		"ghcr.io/devcontainers/features/common-utils
+		"ghcr.io/devcontainers/features/hugo:1"
+		{}
 	},
 	"overrideCommand": false,
 	"hostRequirements": {
